@@ -1,0 +1,7 @@
+logging.level:
+  com.sap: ERROR                     
+  org.springframework: ERROR         
+  org.springframework.security: ERROR 
+  org.springframework.web: ERROR     
+  org.apache.http.wire: ERROR
+  log4j.category.org.apache.http.wire: ERROR
